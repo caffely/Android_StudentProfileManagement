@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Student Profile Management</string>
+    <!--hint-->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_full_name">Full Name</string>
+
+    <string name="title_reset_password">Forgot password?</string>
+    <string name="title_sign_up">Register new account</string>
+    <string name="button_sign_up">Register</string>
+    <string name="button_log_in">Login</string>
+    <string name="button_reset_password">Reset password</string>
+    <string name="button_sign_out">Sign Out</string>
+    <string name="link_reset_password">Forgot your password?</string>
+    <string name="link_log_in">Already registered. Login!</string>
+    <string name="link_sign_up">Not a member? Register now!</string>
+
+    <string name="minimum_password">Password is too short, please enter at least 6 character</string>
+    <string name="authentication_failed">Authentication failed, check your email and password or sign up</string>
+</resources>

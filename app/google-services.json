@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "584762775675",
+    "firebase_url": "https://studentprofilemanagemen.firebaseio.com",
+    "project_id": "studentprofilemanagemen",
+    "storage_bucket": "studentprofilemanagemen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584762775675:android:36ca4a87aaf1a8e5",
+        "android_client_info": {
+          "package_name": "com.example.phong.android_studentprofilemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584762775675-8f4etcrdqvo8a11u8i9jd0jmjh61slre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phong.android_studentprofilemanagement",
+            "certificate_hash": "dfb3dd4cdcc8ba01524d9157f7b996338c7edd5e"
+          }
+        },
+        {
+          "client_id": "584762775675-dk9g98c45kgn5hbrg617ntd7prkavb50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4puGTEhP-DYYtCCV292aqeR_5-WdhA5Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584762775675-dk9g98c45kgn5hbrg617ntd7prkavb50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
